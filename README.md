@@ -24,7 +24,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarlatif087&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarlatif087&hide_progress=false)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarlatif087&" alt="ammarlatif087" /></p>
 
