@@ -23,9 +23,8 @@
 ![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammarlatif087&show_icons=true&theme=radical)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammarlatif087&show_icons=true&locale=en&layout=compact" alt="ammarlatif087" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammarlatif087&show_icons=true&locale=en" alt="ammarlatif087" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarlatif087&hide_progress=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarlatif087&" alt="ammarlatif087" /></p>
 
