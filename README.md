@@ -24,9 +24,12 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarlatif087&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarlatif087&" alt="ammarlatif087" /></p>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/ammarlatif087/github-readme-stats)
 
 ###  Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
